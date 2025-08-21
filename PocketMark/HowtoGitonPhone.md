@@ -1,7 +1,7 @@
 # How to Git on Phone
 — *a beginner's guide to using git on mobile phone.*
 
-![Hero-banner](file:///DevC_Technical_Writing/PocketMark/Src/Attachment-2025-08-20.png)
+![Hero-banner](///DevC_Technical_Writing/PocketMark/Src/Attachment-2025-08-20.png)
 
 A lot of times, I have had people complained about how not being able to use git is one of their major setback as a learner using phone. 
 
